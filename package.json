@@ -1,0 +1,12 @@
+{
+  "name": "javascript_turing_machine-master",
+  "version": "1.0.0",
+  "description": "This is a Javascript implementation of a Turing machine, a demonstration that Javascript is a Turing-complete language.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
